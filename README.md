@@ -10,7 +10,7 @@ Cambridge MEng · INSEAD MBA · 5 languages · 4 continents
 
 ## What I'm building
 
-- **AI Jam Zurich, Co-Founder** — AI community for people building with AI tools. Monthly learning sessions across Switzerland. Join our next session: jamming-ai.com
+- **AI Jam Zurich, Founder** — AI community for people building with AI tools. Monthly learning sessions across Switzerland. Join our next session: jamming-ai.com
 - **AI growth workflows** — agentic automations on Claude, Lovable, Cursor, and Bolt. Focus: PLG and ops use cases for product-led companies.
 
 ---
